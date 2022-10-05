@@ -1,1 +1,4 @@
-Questo programma non fa assolutamente nulla di utile, vero
+QUESTO FILE NON SERVE A NIENTE, FORSE
+
+
+MA FORSE SI, vero
